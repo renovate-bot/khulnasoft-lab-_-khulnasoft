@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "khulnasoft-build": "mkdir dist && node build.js"
+  }
+}

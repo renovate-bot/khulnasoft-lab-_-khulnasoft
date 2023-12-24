@@ -1,0 +1,30 @@
+12/24/23, 4:29:03 AM	should build 00-pnpm	testDeployment "00-pnpm"
+12/24/23, 4:29:03 AM	should build 00-pnpm	posting 3 files
+12/24/23, 4:29:03 AM	should build 01-remix-basics	testDeployment "01-remix-basics"
+12/24/23, 4:29:03 AM	should build 01-remix-basics	posting 26 files
+12/24/23, 4:29:03 AM	should build 02-remix-basics-mjs	testDeployment "02-remix-basics-mjs"
+12/24/23, 4:29:03 AM	should build 02-remix-basics-mjs	posting 15 files
+12/24/23, 4:29:03 AM	should build 03-with-pnpm	testDeployment "03-with-pnpm"
+12/24/23, 4:29:03 AM	should build 03-with-pnpm	posting 18 files
+12/24/23, 4:29:03 AM	should build 04-with-npm9-linked	testDeployment "04-with-npm9-linked"
+12/24/23, 4:29:03 AM	should build 04-with-npm9-linked	posting 17 files
+12/24/23, 4:29:03 AM	should build 05-root-only	testDeployment "05-root-only"
+12/24/23, 4:29:03 AM	should build 05-root-only	posting 7 files
+12/24/23, 4:29:03 AM	should build 06-v2-routing	testDeployment "06-v2-routing"
+12/24/23, 4:29:03 AM	should build 06-v2-routing	posting 11 files
+12/24/23, 4:29:03 AM	should build 07-turborepo	testDeployment "07-turborepo"
+12/24/23, 4:29:03 AM	should build 07-turborepo	posting 18 files
+12/24/23, 4:29:03 AM	should build 08-no-entry-yarn	testDeployment "08-no-entry-yarn"
+12/24/23, 4:29:03 AM	should build 08-no-entry-yarn	posting 9 files
+12/24/23, 4:29:03 AM	should build 09-no-entry-pnpm	testDeployment "09-no-entry-pnpm"
+12/24/23, 4:29:03 AM	should build 09-no-entry-pnpm	posting 9 files
+12/24/23, 4:29:03 AM	should build 10-hydrogen-2	testDeployment "10-hydrogen-2"
+12/24/23, 4:29:03 AM	should build 10-hydrogen-2	posting 51 files
+12/24/23, 4:29:03 AM	should build 11-hydrogen-2-js	testDeployment "11-hydrogen-2-js"
+12/24/23, 4:29:03 AM	should build 11-hydrogen-2-js	posting 48 files
+12/24/23, 4:29:03 AM	should build 12-remix-v2	testDeployment "12-remix-v2"
+12/24/23, 4:29:03 AM	should build 12-remix-v2	posting 12 files
+12/24/23, 4:29:03 AM	should build 13-remix-v2-public-path	testDeployment "13-remix-v2-public-path"
+12/24/23, 4:29:03 AM	should build 13-remix-v2-public-path	posting 14 files
+12/24/23, 4:29:03 AM	should build remix example	testDeployment "remix"
+12/24/23, 4:29:03 AM	should build remix example	posting 11 files

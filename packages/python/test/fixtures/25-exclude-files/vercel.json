@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "api/yes.py", "use": "@khulnasoft/python" },
+    {
+      "src": "api/no.py",
+      "use": "@khulnasoft/python",
+      "config": { "excludeFiles": "ignoreme/**" }
+    }
+  ]
+}

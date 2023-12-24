@@ -1,0 +1,10 @@
+github.com/aws/aws-lambda-go v1.43.0 h1:Tdu7SnMB5bD+CbdnSq1Dg4sM68vEuGIDcQFZ+IjUfx0=
+github.com/aws/aws-lambda-go v1.43.0/go.mod h1:dpMpZgvWx5vuQJfBt0zqBha60q7Dd7RfgJv23DymV8A=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/dhruvbird/go-cowsay v0.0.0-20131019225157-6fd7bd0281c0 h1:t/CyPFyQ/Y5zHoxCd7hZ+15fOYIwKPsTxyqTmBlA2A8=
+github.com/dhruvbird/go-cowsay v0.0.0-20131019225157-6fd7bd0281c0/go.mod h1:Pj0EWCBFS61kh+c6d7rUu6496j3XEAL/QnDQ3D0V8Js=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.7.2 h1:4jaiDzPyXQvSd7D0EjG45355tLlV3VOECpq10pLC+8s=
+github.com/vercel/go-bridge v0.0.0-20221108222652-296f4c6bdb6d h1:yF16FifsUK1ZfRAiG8c3Sm2hM7PaJGtBduL3BzI7ZE4=
+github.com/vercel/go-bridge v0.0.0-20221108222652-296f4c6bdb6d/go.mod h1:RTTykQS0l8RDfOjATEreOpvPDo/yn1zW2nCCP8zBM7E=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=

@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "entrypoint**", "use": "@khulnasoft/node" },
+    { "src": "type-module-package-json/**/*.js", "use": "@khulnasoft/node" }
+  ]
+}

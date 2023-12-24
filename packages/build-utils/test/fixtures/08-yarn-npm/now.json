@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "with-npm/index.js", "use": "@khulnasoft/node" },
+    { "src": "with-yarn/index.js", "use": "@khulnasoft/node" },
+    { "src": "with-yarn-and-npm/index.js", "use": "@khulnasoft/node" }
+  ],
+  "probes": [
+    { "path": "/with-npm", "mustContain": "npm:RANDOMNESS_PLACEHOLDER" },
+    { "path": "/with-yarn", "mustContain": "yarn:RANDOMNESS_PLACEHOLDER" },
+    {
+      "path": "/with-yarn-and-npm",
+      "mustContain": "yarn:RANDOMNESS_PLACEHOLDER"
+    }
+  ]
+}

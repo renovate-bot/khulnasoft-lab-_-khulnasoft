@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@khulnasoft/static-build",
+      "config": { "zeroConfig": true, "framework": "create-react-app" }
+    }
+  ],
+  "probes": [{ "path": "/index.json", "mustContain": "REACT_APP_VERCEL_URL" }]
+}

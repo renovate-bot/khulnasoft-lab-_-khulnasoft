@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "@vercel-internals/tsconfig",
+  "version": "1.0.0",
+  "description": "Node.js tsconfig file based on `@khulnasoft/style-guide`",
+  "files": [
+    "tsconfig.json"
+  ],
+  "devDependencies": {
+    "@khulnasoft/style-guide": "4.0.2"
+  }
+}
