@@ -20,7 +20,7 @@
     ]
   },
   "dependencies": {
-    "@blitzjs/next": "2.0.0-beta.33",
+    "@blitzjs/next": "2.0.2",
     "blitz": "2.0.0-beta.33",
     "next": "13.4.5",
     "react": "18.2.0",
